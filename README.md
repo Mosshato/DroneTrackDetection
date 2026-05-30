@@ -1,5 +1,7 @@
 # DroneProject
 
+> This project was developed as part of a university team assignment.
+
 Offline track-detection pipeline for a downward-facing drone camera. The
 project estimates the centerline of a wooden train track and lets you compare
 multiple detection methods over recorded footage.
